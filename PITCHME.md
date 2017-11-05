@@ -84,7 +84,6 @@
 +++
 
 ### 良ければ使ってやってください！（宣伝）
-（最後にももう一度表示します！）
 <img src="./qr20171105181905636.png" width="180px" height="180px" />
 
 ---
@@ -153,8 +152,4 @@ curl itcreate-club.herokuapp.com
   <ul>
 </ul>
 
-<div style="float:left">
-  <h3>ご清聴ありがとうございました！</h3>
-  <h5>bitFlyerのChrome拡張</h5>
-  <img style="float: right" src="./qr20171105181905636.png" width="130px" height="130px" />
-</div>
+### ご清聴ありがとうございました！
