@@ -79,7 +79,7 @@
 
 ### 使用技術
 
-漢は黙って <img src="./jquery.png" width="240px" height="60px" alt="jQuery" />
+漢は黙って <img src="https://raw.githubusercontent.com/ahaha0807/reporting_session_in_kof/master/./jquery.png" width="240px" height="60px" alt="jQuery" />
 
 +++
 
