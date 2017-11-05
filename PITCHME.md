@@ -79,7 +79,7 @@
 
 ### 使用技術
 
-漢は黙って <img src="./jquery.png" width="240px" height="60px" />
+漢は黙って <img src="./jquery.png" width="240px" height="60px" alt="jQuery" />
 
 +++
 
