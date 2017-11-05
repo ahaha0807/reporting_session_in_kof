@@ -153,7 +153,8 @@ curl itcreate-club.herokuapp.com
   <ul>
 </ul>
 
-#### ご清聴ありがとうございました！
-
-##### bitFlyerのChrome拡張
-<img src="./qr20171105181905636.png" width="130px" height="130px" />
+<div style="float:left">
+  <h3>ご清聴ありがとうございました！</h3>
+  <h5>bitFlyerのChrome拡張</h5>
+  <img style="float: right" src="./qr20171105181905636.png" width="130px" height="130px" />
+</div>
