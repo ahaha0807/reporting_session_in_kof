@@ -134,19 +134,24 @@ curl itcreate-club.herokuapp.com
 ---
 
 ### まとめ
-
-- 先月やったこと
-  - 就活（就活苦労勢） 
-  - JPHACKS出場 
-  - Ruby on Rails でアプリ作り始める 
-  - **Chrome拡張**作った
-  - ポスターのために **Node.js使って AAジェネレーター作った**
-  - 久しぶりにチラシとかのデザインやった
-  - **Scala勉強**し始めた
-- 今月やる予定のこと
-  - Scala(Scalatra)でWebアプリの裏側書く
-  - Ruby on Rails のWebアプリの進捗を7割を目指す
-  - 仮想通貨のトレードで頑張ってお昼ごはん代を稼ぐ
+<ul style="font-size: 30px">
+<li>先月やったこと</li>
+  <ul>
+    <li>就活（就活苦労勢）</li> 
+    <li>JPHACKS出場</li>
+    <li>Ruby on Rails でアプリ作り始める</li> 
+    <li><strong>Chrome拡張</strong>作った</li>
+    <li>ポスターのために <strong>Node.js使って AAジェネレーター作った</strong></li>
+    <li>久しぶりにチラシとかのデザインやった</li>
+    <li><strong>Scala勉強</strong>し始めた</li>
+  </ul>
+<li>今月やる予定のこと</li>
+  <ul>
+    <li>Scala(Scalatra)でWebアプリの裏側書く</li>
+    <li>Ruby on Rails のWebアプリの進捗を7割を目指す</li>
+    <li>仮想通貨のトレードで頑張ってお昼ごはん代を稼ぐ</li>
+  <ul>
+</ul>
 
 #### ご清聴ありがとうございました！
 
