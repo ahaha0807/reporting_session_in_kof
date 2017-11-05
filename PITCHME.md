@@ -151,5 +151,3 @@ curl itcreate-club.herokuapp.com
     <li>仮想通貨のトレードで頑張ってお昼ごはん代を稼ぐ</li>
   <ul>
 </ul>
-
-### ご清聴ありがとうございました！
