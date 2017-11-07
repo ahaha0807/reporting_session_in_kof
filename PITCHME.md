@@ -95,7 +95,7 @@
 ### 作ったきっかけ
 （ボツ案となったが）このポスターをやるために作った
 
-<img src="./poster.png" width="300px" height="380px" />
+<img src="https://github.com/ahaha0807/reporting_session_in_kof/blob/master/poster.jpg?raw=true" width="300px" height="380px" />
 
 +++
 
